@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @xtghjsa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://t.me/xtghjsa)
+[...](https://t.me/xtghjsa)
 
 <!---
 xtghjsa/xtghjsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
